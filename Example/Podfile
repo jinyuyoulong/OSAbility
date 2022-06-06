@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'OSAbility_Example' do
+  pod 'OSAbility', :path => '../'
+
+  target 'OSAbility_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

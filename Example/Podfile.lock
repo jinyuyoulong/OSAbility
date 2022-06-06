@@ -1,0 +1,18 @@
+PODS:
+  - OSAbility (0.1.0):
+    - OSAbility/Audio (= 0.1.0)
+  - OSAbility/Audio (0.1.0)
+
+DEPENDENCIES:
+  - OSAbility (from `../`)
+
+EXTERNAL SOURCES:
+  OSAbility:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OSAbility: 788cb0d9732852e2ef9abf10364410f4e051c238
+
+PODFILE CHECKSUM: 1018fe27620d288e62a15cfbe5d525e8080227e1
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,6 @@
+framework module Pods_OSAbility_Example {
+  umbrella header "Pods-OSAbility_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
