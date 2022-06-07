@@ -34,7 +34,7 @@ AudioSessionManager.shared().setRecordSession()
 ```
 OC 工程或Pod库
 ```
-#import <OSAbility/OSAbility-umbrella.h>
+@import OSAbility
 
 ...
 使用
